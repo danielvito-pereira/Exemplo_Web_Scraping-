@@ -1,0 +1,22 @@
+{
+  "name": "exemplo_web_scraping-",
+  "version": "1.0.0",
+  "description": "Iniciação ao Web Scraping - Puxar dados da internet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielvito-pereira/Exemplo_Web_Scraping-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielvito-pereira/Exemplo_Web_Scraping-/issues"
+  },
+  "homepage": "https://github.com/danielvito-pereira/Exemplo_Web_Scraping-#readme",
+  "dependencies": {
+    "scrape-it": "^5.2.4"
+  }
+}
